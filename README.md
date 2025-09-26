@@ -13,7 +13,11 @@ pinned: false
 
 A sophisticated real-time face mask detection system leveraging deep learning and computer vision. This project combines the power of transfer learning using VGG16 architecture with custom classification layers to accurately detect and classify face mask usage.
 
-🔗 **Live Demo**: [Face Mask Detector on Hugging Face Spaces](https://huggingface.co/spaces/wassim-ansari2088/Face-Mask-Detector-Vision)
+## 🔗 Project Links
+
+- 🚀 **Live Demo**: [Face Mask Detector on Hugging Face Spaces](https://huggingface.co/spaces/wassim-ansari2088/Face-Mask-Detector-Vision)
+- 💻 **GitHub Repository**: [FaceMask-Detection-CNNModel-VGG16](https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16)
+- 🤗 **Hugging Face Space**: [wassim-ansari2088/Face-Mask-Detector-Vision](https://huggingface.co/spaces/wassim-ansari2088/Face-Mask-Detector-Vision)
 
 ## Project Overview
 
