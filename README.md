@@ -7,6 +7,15 @@ sdk: gradio
 sdk_version: 3.50.2
 app_file: app.py
 pinned: false
+license: apache-2.0
+base_model: vgg16
+tags:
+  - face-mask-detection
+  - computer-vision
+  - pytorch
+  - vgg16
+  - gradio
+github_repo: wsmaisys/FaceMask-Detection-CNNModel-VGG16
 ---
 
 # Face Mask Detection System
