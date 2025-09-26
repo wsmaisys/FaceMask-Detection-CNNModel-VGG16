@@ -149,7 +149,7 @@ Important note about Hugging Face Spaces deployment:
 
 ## Author
 
-[Wassim Ansari](https://huggingface.co/wassim-ansari2088)
+[Waseem M Ansari](https://huggingface.co/wassim-ansari2088)
 
 ## License
 
