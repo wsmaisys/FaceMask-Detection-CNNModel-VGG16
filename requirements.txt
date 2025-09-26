@@ -1,0 +1,5 @@
+torch
+torchvision
+opencv-python-headless
+gradio==4.44.1
+numpy
